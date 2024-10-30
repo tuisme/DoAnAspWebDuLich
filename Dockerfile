@@ -15,7 +15,7 @@ WORKDIR /app
 COPY --from=build-env /app/out .
 
 # Set the environment variable to specify the port
-ENV ASPNETCORE_URLS=http://+:\${PORT}
+CMD ASPNETCORE_URLS=http://*:$PORT dotnet dulichaspnet.dll
 
 # Run the app on container startup
 ENTRYPOINT [ "dotnet", "dulichaspnet.dll" ]
