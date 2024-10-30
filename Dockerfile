@@ -14,5 +14,8 @@ FROM mcr.microsoft.com/dotnet/aspnet:8.0
 WORKDIR /app
 COPY --from=build-env /app/out .
 
+# Set the environment variable to specify the port
+ENV ASPNETCORE_URLS=http://+:\${PORT}
+
 # Run the app on container startup
 ENTRYPOINT [ "dotnet", "dulichaspnet.dll" ]
