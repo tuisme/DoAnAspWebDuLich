@@ -3,8 +3,59 @@
   "WorkspaceRootPath": "C:\\Users\\Mai Hieu\\Desktop\\Freelancer\\dulichaspnet\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{058D2C2B-1E12-4995-882A-8992B3E0198F}|dulichaspnet\\dulichaspnet.csproj|c:\\users\\mai hieu\\desktop\\freelancer\\dulichaspnet\\dulichaspnet\\views\\nguoidung\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{058D2C2B-1E12-4995-882A-8992B3E0198F}|dulichaspnet\\dulichaspnet.csproj|solutionrelative:dulichaspnet\\views\\nguoidung\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058D2C2B-1E12-4995-882A-8992B3E0198F}|dulichaspnet\\dulichaspnet.csproj|c:\\users\\mai hieu\\desktop\\freelancer\\dulichaspnet\\dulichaspnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058D2C2B-1E12-4995-882A-8992B3E0198F}|dulichaspnet\\dulichaspnet.csproj|solutionrelative:dulichaspnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058D2C2B-1E12-4995-882A-8992B3E0198F}|dulichaspnet\\dulichaspnet.csproj|c:\\users\\mai hieu\\desktop\\freelancer\\dulichaspnet\\dulichaspnet\\viewmodels\\dangkyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058D2C2B-1E12-4995-882A-8992B3E0198F}|dulichaspnet\\dulichaspnet.csproj|solutionrelative:dulichaspnet\\viewmodels\\dangkyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058D2C2B-1E12-4995-882A-8992B3E0198F}|dulichaspnet\\dulichaspnet.csproj|c:\\users\\mai hieu\\desktop\\freelancer\\dulichaspnet\\dulichaspnet\\controllers\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058D2C2B-1E12-4995-882A-8992B3E0198F}|dulichaspnet\\dulichaspnet.csproj|solutionrelative:dulichaspnet\\controllers\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058D2C2B-1E12-4995-882A-8992B3E0198F}|dulichaspnet\\dulichaspnet.csproj|c:\\users\\mai hieu\\desktop\\freelancer\\dulichaspnet\\dulichaspnet\\viewmodels\\dangnhapviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058D2C2B-1E12-4995-882A-8992B3E0198F}|dulichaspnet\\dulichaspnet.csproj|solutionrelative:dulichaspnet\\viewmodels\\dangnhapviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058D2C2B-1E12-4995-882A-8992B3E0198F}|dulichaspnet\\dulichaspnet.csproj|c:\\users\\mai hieu\\desktop\\freelancer\\dulichaspnet\\dulichaspnet\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{058D2C2B-1E12-4995-882A-8992B3E0198F}|dulichaspnet\\dulichaspnet.csproj|solutionrelative:dulichaspnet\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058D2C2B-1E12-4995-882A-8992B3E0198F}|dulichaspnet\\dulichaspnet.csproj|c:\\users\\mai hieu\\desktop\\freelancer\\dulichaspnet\\dulichaspnet\\views\\nguoidung\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{058D2C2B-1E12-4995-882A-8992B3E0198F}|dulichaspnet\\dulichaspnet.csproj|solutionrelative:dulichaspnet\\views\\nguoidung\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{058D2C2B-1E12-4995-882A-8992B3E0198F}|dulichaspnet\\dulichaspnet.csproj|c:\\users\\mai hieu\\desktop\\freelancer\\dulichaspnet\\dulichaspnet\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{058D2C2B-1E12-4995-882A-8992B3E0198F}|dulichaspnet\\dulichaspnet.csproj|solutionrelative:dulichaspnet\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058D2C2B-1E12-4995-882A-8992B3E0198F}|dulichaspnet\\dulichaspnet.csproj|c:\\users\\mai hieu\\desktop\\freelancer\\dulichaspnet\\dulichaspnet\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058D2C2B-1E12-4995-882A-8992B3E0198F}|dulichaspnet\\dulichaspnet.csproj|solutionrelative:dulichaspnet\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058D2C2B-1E12-4995-882A-8992B3E0198F}|dulichaspnet\\dulichaspnet.csproj|c:\\users\\mai hieu\\desktop\\freelancer\\dulichaspnet\\dulichaspnet\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058D2C2B-1E12-4995-882A-8992B3E0198F}|dulichaspnet\\dulichaspnet.csproj|solutionrelative:dulichaspnet\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058D2C2B-1E12-4995-882A-8992B3E0198F}|dulichaspnet\\dulichaspnet.csproj|c:\\users\\mai hieu\\desktop\\freelancer\\dulichaspnet\\dulichaspnet\\models\\diadiemdulich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058D2C2B-1E12-4995-882A-8992B3E0198F}|dulichaspnet\\dulichaspnet.csproj|solutionrelative:dulichaspnet\\models\\diadiemdulich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058D2C2B-1E12-4995-882A-8992B3E0198F}|dulichaspnet\\dulichaspnet.csproj|c:\\users\\mai hieu\\desktop\\freelancer\\dulichaspnet\\dulichaspnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{058D2C2B-1E12-4995-882A-8992B3E0198F}|dulichaspnet\\dulichaspnet.csproj|solutionrelative:dulichaspnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058D2C2B-1E12-4995-882A-8992B3E0198F}|dulichaspnet\\dulichaspnet.csproj|c:\\users\\mai hieu\\desktop\\freelancer\\dulichaspnet\\dulichaspnet\\models\\datve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058D2C2B-1E12-4995-882A-8992B3E0198F}|dulichaspnet\\dulichaspnet.csproj|solutionrelative:dulichaspnet\\models\\datve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mai Hieu\\AppData\\Local\\Temp\\zh00cokb..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +70,182 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Dangky.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mai Hieu\\Desktop\\Freelancer\\dulichaspnet\\dulichaspnet\\Views\\Nguoidung\\Dangky.cshtml",
+              "RelativeDocumentMoniker": "dulichaspnet\\Views\\Nguoidung\\Dangky.cshtml",
+              "ToolTip": "C:\\Users\\Mai Hieu\\Desktop\\Freelancer\\dulichaspnet\\dulichaspnet\\Views\\Nguoidung\\Dangky.cshtml",
+              "RelativeToolTip": "dulichaspnet\\Views\\Nguoidung\\Dangky.cshtml",
+              "ViewState": "AgIAALoBAAAAAAAAAAAAAMQBAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T15:14:57.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DangkyViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Mai Hieu\\Desktop\\Freelancer\\dulichaspnet\\dulichaspnet\\ViewModels\\DangkyViewModel.cs",
+              "RelativeDocumentMoniker": "dulichaspnet\\ViewModels\\DangkyViewModel.cs",
+              "ToolTip": "C:\\Users\\Mai Hieu\\Desktop\\Freelancer\\dulichaspnet\\dulichaspnet\\ViewModels\\DangkyViewModel.cs",
+              "RelativeToolTip": "dulichaspnet\\ViewModels\\DangkyViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:13:34.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mai Hieu\\Desktop\\Freelancer\\dulichaspnet\\dulichaspnet\\Program.cs",
+              "RelativeDocumentMoniker": "dulichaspnet\\Program.cs",
+              "ToolTip": "C:\\Users\\Mai Hieu\\Desktop\\Freelancer\\dulichaspnet\\dulichaspnet\\Program.cs",
+              "RelativeToolTip": "dulichaspnet\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAD4vx4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T13:59:26.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NguoidungController.cs",
+              "DocumentMoniker": "C:\\Users\\Mai Hieu\\Desktop\\Freelancer\\dulichaspnet\\dulichaspnet\\Controllers\\NguoidungController.cs",
+              "RelativeDocumentMoniker": "dulichaspnet\\Controllers\\NguoidungController.cs",
+              "ToolTip": "C:\\Users\\Mai Hieu\\Desktop\\Freelancer\\dulichaspnet\\dulichaspnet\\Controllers\\NguoidungController.cs",
+              "RelativeToolTip": "dulichaspnet\\Controllers\\NguoidungController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAqwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:16:24.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DangnhapViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Mai Hieu\\Desktop\\Freelancer\\dulichaspnet\\dulichaspnet\\ViewModels\\DangnhapViewModel.cs",
+              "RelativeDocumentMoniker": "dulichaspnet\\ViewModels\\DangnhapViewModel.cs",
+              "ToolTip": "C:\\Users\\Mai Hieu\\Desktop\\Freelancer\\dulichaspnet\\dulichaspnet\\ViewModels\\DangnhapViewModel.cs",
+              "RelativeToolTip": "dulichaspnet\\ViewModels\\DangnhapViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:13:58.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mai Hieu\\Desktop\\Freelancer\\dulichaspnet\\dulichaspnet\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "dulichaspnet\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mai Hieu\\Desktop\\Freelancer\\dulichaspnet\\dulichaspnet\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "dulichaspnet\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAH8PAAAAAAAAAAAIwJkPAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T15:18:50.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dangnhap.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mai Hieu\\Desktop\\Freelancer\\dulichaspnet\\dulichaspnet\\Views\\Nguoidung\\Dangnhap.cshtml",
+              "RelativeDocumentMoniker": "dulichaspnet\\Views\\Nguoidung\\Dangnhap.cshtml",
+              "ToolTip": "C:\\Users\\Mai Hieu\\Desktop\\Freelancer\\dulichaspnet\\dulichaspnet\\Views\\Nguoidung\\Dangnhap.cshtml",
+              "RelativeToolTip": "dulichaspnet\\Views\\Nguoidung\\Dangnhap.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T15:15:24.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Mai Hieu\\Desktop\\Freelancer\\dulichaspnet\\dulichaspnet\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "dulichaspnet\\Pages\\Index.cshtml",
               "ToolTip": "C:\\Users\\Mai Hieu\\Desktop\\Freelancer\\dulichaspnet\\dulichaspnet\\Pages\\Index.cshtml",
               "RelativeToolTip": "dulichaspnet\\Pages\\Index.cshtml",
-              "ViewState": "AgIAACwNAAAAAAAAAAAAAPQMAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-29T12:59:14.455Z",
+              "WhenOpened": "2024-10-31T15:22:01.727Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Mai Hieu\\Desktop\\Freelancer\\dulichaspnet\\dulichaspnet\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "dulichaspnet\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Mai Hieu\\Desktop\\Freelancer\\dulichaspnet\\dulichaspnet\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "dulichaspnet\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:18:08.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DiaDiemDuLich.cs",
+              "DocumentMoniker": "C:\\Users\\Mai Hieu\\Desktop\\Freelancer\\dulichaspnet\\dulichaspnet\\Models\\DiaDiemDuLich.cs",
+              "RelativeDocumentMoniker": "dulichaspnet\\Models\\DiaDiemDuLich.cs",
+              "ToolTip": "C:\\Users\\Mai Hieu\\Desktop\\Freelancer\\dulichaspnet\\dulichaspnet\\Models\\DiaDiemDuLich.cs",
+              "RelativeToolTip": "dulichaspnet\\Models\\DiaDiemDuLich.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:07:20.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DatVe.cs",
+              "DocumentMoniker": "C:\\Users\\Mai Hieu\\Desktop\\Freelancer\\dulichaspnet\\dulichaspnet\\Models\\DatVe.cs",
+              "RelativeDocumentMoniker": "dulichaspnet\\Models\\DatVe.cs",
+              "ToolTip": "C:\\Users\\Mai Hieu\\Desktop\\Freelancer\\dulichaspnet\\dulichaspnet\\Models\\DatVe.cs",
+              "RelativeToolTip": "dulichaspnet\\Models\\DatVe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:04:09.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mai Hieu\\Desktop\\Freelancer\\dulichaspnet\\dulichaspnet\\appsettings.json",
+              "RelativeDocumentMoniker": "dulichaspnet\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mai Hieu\\Desktop\\Freelancer\\dulichaspnet\\dulichaspnet\\appsettings.json",
+              "RelativeToolTip": "dulichaspnet\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-31T14:45:18.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mai Hieu\\Desktop\\Freelancer\\dulichaspnet\\dulichaspnet\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "dulichaspnet\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Mai Hieu\\Desktop\\Freelancer\\dulichaspnet\\dulichaspnet\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "dulichaspnet\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T13:55:28.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "zh00cokb..sql",
+              "DocumentMoniker": "C:\\Users\\Mai Hieu\\AppData\\Local\\Temp\\zh00cokb..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\zh00cokb..sql",
+              "ToolTip": "C:\\Users\\Mai Hieu\\AppData\\Local\\Temp\\zh00cokb..sql",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\zh00cokb..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-30T08:30:08.929Z"
             }
           ]
         }

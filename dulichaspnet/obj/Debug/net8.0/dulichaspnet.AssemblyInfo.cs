@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dulichaspnet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d30cced57b45b714afa159094499d3034ec3e3f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("dulichaspnet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dulichaspnet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
