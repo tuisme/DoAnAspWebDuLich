@@ -140,3 +140,4 @@ C:\Users\Mai Hieu\Desktop\Freelancer\dulichaspnet\dulichaspnet\obj\Debug\net8.0\
 C:\Users\Mai Hieu\Desktop\Freelancer\dulichaspnet\dulichaspnet\obj\Debug\net8.0\dulichaspnet.pdb
 C:\Users\Mai Hieu\Desktop\Freelancer\dulichaspnet\dulichaspnet\obj\Debug\net8.0\dulichaspnet.genruntimeconfig.cache
 C:\Users\Mai Hieu\Desktop\Freelancer\dulichaspnet\dulichaspnet\obj\Debug\net8.0\ref\dulichaspnet.dll
+C:\Users\Mai Hieu\Desktop\Freelancer\dulichaspnet\dulichaspnet\obj\Debug\net8.0\dulichaspnet.sourcelink.json
